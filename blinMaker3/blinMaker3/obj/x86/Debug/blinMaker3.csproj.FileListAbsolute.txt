@@ -1,0 +1,6 @@
+/home/hibiki/Projects/blinMaker3/blinMaker3/bin/Debug/blinMaker3.exe
+/home/hibiki/Projects/blinMaker3/blinMaker3/bin/Debug/blinMaker3.pdb
+/home/hibiki/Projects/blinMaker3/blinMaker3/obj/x86/Debug/blinMaker3.csprojAssemblyReference.cache
+/home/hibiki/Projects/blinMaker3/blinMaker3/obj/x86/Debug/blinMaker3.csproj.CoreCompileInputs.cache
+/home/hibiki/Projects/blinMaker3/blinMaker3/obj/x86/Debug/blinMaker3.exe
+/home/hibiki/Projects/blinMaker3/blinMaker3/obj/x86/Debug/blinMaker3.pdb
